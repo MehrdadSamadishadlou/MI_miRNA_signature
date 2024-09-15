@@ -13,8 +13,8 @@ The main objective of this research is to develop a diagnostic tool for myocardi
 ## Data Sources
 
 The analysis is based on two publicly available datasets:
-1. [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61741]
-2. [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE29532]
+1. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61741
+2. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE29532
 
 Note: The datasets are not included in this repository. The R code is designed to fetch and process the data directly from their online sources.
 
@@ -46,4 +46,4 @@ If you use this code or find it helpful in your research, please cite our paper:
 
 ## Contact
 
-For any queries or further information, please contact Mehrdad Samadishadlou at [mehrdad.samadi90@gmail.com].
+For any queries or further information, please contact Mehrdad Samadishadlou at mehrdad.samadi90@gmail.com.
