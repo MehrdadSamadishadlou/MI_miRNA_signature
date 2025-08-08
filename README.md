@@ -4,7 +4,7 @@ This repository contains the code for the published scientific paper:
 
 "An Exploration into the Diagnostic Capabilities of MicroRNAs for Myocardial Infarction Using Machine Learning"
 
-[Link to the paper will be added]
+[[Link to the paper will be added]](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-024-00543-5)
 
 ## Project Overview
 
