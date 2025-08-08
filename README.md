@@ -4,7 +4,7 @@ This repository contains the code for the published scientific paper:
 
 "An Exploration into the Diagnostic Capabilities of MicroRNAs for Myocardial Infarction Using Machine Learning"
 
-[[Link to the paper will be added]](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-024-00543-5)
+https://biologydirect.biomedcentral.com/articles/10.1186/s13062-024-00543-5
 
 ## Project Overview
 
@@ -41,7 +41,8 @@ Note: The datasets are not included in this repository. The R code is designed t
 
 If you use this code or find it helpful in your research, please cite our paper:
 
-[Citation details will be added]
+**Samadishadlou M, Rahbarghazi R, Kavousi K, Bani F. An exploration into the diagnostic capabilities of microRNAs for myocardial infarction using machine learning. Biology Direct. 2024 Dec 10;19(1):127.**
+
 
 
 ## Contact
